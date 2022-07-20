@@ -4,7 +4,7 @@ channels:
         - bioconda
         - conda-forge
 dependencies:
-        - plotly=5.2.2
+        - plotly=5.1.0
         - matplotlib-base
         - pandas
         - dominate=2.3.1
